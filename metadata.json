@@ -1,0 +1,8 @@
+{
+  "name": "Art & Artifacts Explorer",
+  "description": "Explore the world's art and artifacts with AI insights, image recognition, and a global map. Discover rich content and personalized recommendations without login.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
